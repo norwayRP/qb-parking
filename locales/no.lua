@@ -2,7 +2,7 @@ local Translations = {
     error = {
         ["citizenid_error"]     = "[ERROR] Kunne ikke finne spiller citizenid!",
         ["mis_id"]              = "[Error] En spiller ID er påkrevd.",
-        ["mis_amount"]          = "[Error] There is no number of vehicles that this player can park.",
+        ["mis_amount"]          = "[Error] Det er ikke noe nummer kjøretøy denne spiller kan parkere.",
     },
     commands = {
         ["addvip"]              = "Add", 
